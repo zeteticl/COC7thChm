@@ -18,7 +18,7 @@ def convert_html_to_ini():
         lines.append(line.strip())
     
     title_list = []
-    index = 9  # 从 TitleList.Title.9 开始，如果要修改起始序号，请修改这里
+    index = 1  # 从 TitleList.Title.9 开始，如果要修改起始序号，请修改这里
 
     # 维护上一级和上上一级标题
     last_h1_title = None
