@@ -1,8 +1,8 @@
-﻿{
-  "衝鋒鎗（貫穿）": [
+{
+  "衝鋒槍（貫穿）": [
     {
       "name": "貝格曼 MP18 I/MP28 II",
-      "skill": "射擊（衝鋒鎗）",
+      "skill": "射擊（衝鋒槍）",
       "damage": "1D10",
       "range": "20m",
       "shots_per_round": "1（2）或全自動",
@@ -13,7 +13,7 @@
     },
     {
       "name": "H&K MP5",
-      "skill": "射擊（衝鋒鎗）",
+      "skill": "射擊（衝鋒槍）",
       "damage": "1D10",
       "range": "20m",
       "shots_per_round": "1（2）或全自動",
@@ -24,7 +24,7 @@
     },
     {
       "name": "MAC-11",
-      "skill": "射擊（衝鋒鎗）",
+      "skill": "射擊（衝鋒槍）",
       "damage": "1D10",
       "range": "15m",
       "shots_per_round": "1（3）或全自動",
@@ -34,8 +34,8 @@
       "era": "現代"
     },
     {
-      "name": "蝎式衝鋒鎗",
-      "skill": "射擊（衝鋒鎗）",
+      "name": "蝎式衝鋒槍",
+      "skill": "射擊（衝鋒槍）",
       "damage": "1D10",
       "range": "15m",
       "shots_per_round": "1（3）或全自動",
@@ -45,8 +45,8 @@
       "era": "現代"
     },
     {
-      "name": "湯普森衝鋒鎗",
-      "skill": "射擊（衝鋒鎗）",
+      "name": "湯普森衝鋒槍",
+      "skill": "射擊（衝鋒槍）",
       "damage": "1D10",
       "range": "20m",
       "shots_per_round": "1 或全自動",
@@ -57,7 +57,7 @@
     },
     {
       "name": "烏茲衝鋒槍",
-      "skill": "射擊（衝鋒鎗）",
+      "skill": "射擊（衝鋒槍）",
       "damage": "1D10",
       "range": "20m",
       "shots_per_round": "1（2）或全自動",
