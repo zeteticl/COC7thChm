@@ -94,7 +94,7 @@
     },
     {
       "name": "牛鞭",
-      "skill": "格鬥（鞭）",
+      "skill": "格鬥（鞭子）",
       "damage": "1D3+ 半 DB",
       "armor_piercing": "",
       "range": "3m",
@@ -118,7 +118,7 @@
     },
     {
       "name": "鏈鋸⑤",
-      "skill": "格鬥（鏈鋸）",
+      "skill": "格鬥（電鋸）",
       "damage": "2D8",
       "armor_piercing": "✓",
       "range": "接觸",
@@ -178,7 +178,7 @@
     },
     {
       "name": "絞索⑥",
-      "skill": "格鬥（絞索）",
+      "skill": "格鬥（絞殺）",
       "damage": "1D6+DB",
       "armor_piercing": "✓",
       "range": "接觸",
@@ -190,7 +190,7 @@
     },
     {
       "name": "手斧/鐮刀",
-      "skill": "格鬥（斧）",
+      "skill": "格鬥（斧頭）",
       "damage": "1D6+1+DB",
       "armor_piercing": "✓",
       "range": "接觸",
@@ -322,7 +322,7 @@
     },
     {
       "name": "大型刀劍（馬刀）",
-      "skill": "格鬥（刀劍）",
+      "skill": "格鬥（劍）",
       "damage": "1D8+1+DB",
       "armor_piercing": "✓",
       "range": "接觸",
@@ -334,7 +334,7 @@
     },
     {
       "name": "中型刀劍（長劍、重劍）",
-      "skill": "格鬥（刀劍）",
+      "skill": "格鬥（劍）",
       "damage": "1D6+1+DB",
       "armor_piercing": "✓",
       "range": "接觸",
@@ -346,7 +346,7 @@
     },
     {
       "name": "輕型刀劍（花劍、劍杖）",
-      "skill": "格鬥（刀劍）",
+      "skill": "格鬥（劍）",
       "damage": "1D6+DB",
       "armor_piercing": "✓",
       "range": "接觸",
@@ -394,7 +394,7 @@
     },
     {
       "name": "伐木斧",
-      "skill": "格鬥（斧）",
+      "skill": "格鬥（斧頭）",
       "damage": "1D8+2+DB",
       "armor_piercing": "✓",
       "range": "接觸",
@@ -865,7 +865,7 @@
     },
     {
       "name": "雷管",
-      "skill": "電氣維修",
+      "skill": "電器維修",
       "damage": "2D10/1m",
       "range": "N/A",
       "shots_per_round": "N/A",
